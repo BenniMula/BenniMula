@@ -47,4 +47,4 @@ My current job has a heavy focus on frontend development and java :)
 My current Focus is to develop my Next.js skills further, followed by refining my Typescript skills. 
 
 ## Thank you for checking out my profile
-![psyduck-cute](https://github.com/user-attachments/assets/a9828c40-807d-4077-b77c-1d66c7c80a3d)
+![pysiduck](https://github.com/user-attachments/assets/5f1146cf-52af-4105-89ce-071018223a7f)
