@@ -8,8 +8,6 @@ I am Benni, a Developer working at Jung von Matt TECH.
 + 📖 Always open to help and teach!
 + 🤓 Love gaming and studied computer games technology
 
-![wingman-wingman-valorant](https://github.com/user-attachments/assets/5fe8e649-4820-49e4-afea-6c86633e8211)
-
 ## Tech stack
 Down below is a list of programming languages and techs I have used during my time at the university and my current Job.
 My current job has a heavy focus on frontend development and java :)
